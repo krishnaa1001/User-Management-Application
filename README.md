@@ -32,4 +32,4 @@ Follow these steps to set up the project on your local machine:
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/user-management-app.git
+   git clone https://github.com/krishnaa1001/User-Management-Application
